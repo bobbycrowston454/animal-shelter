@@ -1,0 +1,19 @@
+body{
+  text-align: center;
+  font-family: sans-serif;
+  background-image:url("http://www.planwallpaper.com/static/images/nature_backgrounds_wonderful_edition_photo_hq_7051.jpg");
+}
+.profile{
+  float: left;
+  border: solid;
+  border-width: thin;
+  margin-left: 100px;
+  padding: 50px;
+}
+.profile img{
+  width: 500px;
+}
+ul li{
+  list-style-type: none;
+  text-align: left;
+}
