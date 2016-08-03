@@ -2,18 +2,53 @@ body{
   text-align: center;
   font-family: sans-serif;
   background-image:url("http://www.planwallpaper.com/static/images/nature_backgrounds_wonderful_edition_photo_hq_7051.jpg");
+
+
 }
 .profile{
   float: left;
   border: solid;
-  border-width: thin;
+  border-width: medium;
   margin-left: 100px;
-  padding: 50px;
+  padding-bottom:20px;
+  margin-bottom: 60px;
+  padding: 10px;
+
 }
 .profile img{
   width: 500px;
+
 }
 ul li{
   list-style-type: none;
   text-align: left;
+}
+
+h1{
+  text-decoration: overline;
+}
+
+h2{
+  text-decoration: underline;
+}
+
+p{
+  font-size: 20px;
+  font-style: oblique;
+  font-weight: bold;
+}
+
+ul{
+  font-size: 17px;
+  font-style: italic;
+}
+.contact{
+  float: left;
+  border: solid;
+  border-width: medium;
+  width: 500px;
+
+  margin-left: 100px;
+
+  padding: 10px;
 }
