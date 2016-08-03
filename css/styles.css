@@ -9,7 +9,7 @@ body{
   float: left;
   border: solid;
   border-width: medium;
-  margin-left: 100px;
+  margin-left: 20%;
   padding-bottom:20px;
   margin-bottom: 60px;
   padding: 10px;
@@ -47,8 +47,6 @@ ul{
   border: solid;
   border-width: medium;
   width: 500px;
-
-  margin-left: 100px;
-
+  margin-left: 20%;
   padding: 10px;
 }
